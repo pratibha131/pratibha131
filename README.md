@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Pratibha Mehta</h1>
 <h3 align="center">I am a passionate Full Stack Developer with a focus on the MERN stack (MongoDB, Express.js, React.js, and Node.js). With a strong foundation in both front-end and back-end development, I love creating efficient, scalable, and user-friendly web applications.</h3>
 
-<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="right" alt="coding" width="400px" src="https://github.com/pratibha131/pratibha131/blob/main/code.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratibha131&label=Profile%20views&color=0e75b6&style=flat" alt="pratibha131" /> </p>
 
 - 🔭 I’m currently working on **Airbnb Cloning Full Stack Website**
