@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo]()
+![logo](https://github.com/pratibha131/pratibha131/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Pratibha Mehta</h1>
 <h3 align="center">I am a passionate Full Stack Developer with a focus on the MERN stack (MongoDB, Express.js, React.js, and Node.js). With a strong foundation in both front-end and back-end development, I love creating efficient, scalable, and user-friendly web applications.</h3>
 
